@@ -7,4 +7,4 @@ About Me ... I feel I'm learning the Alpahbets once again now!.
 <!-- I am keeping the "!" for joy -->
 # Good Bye
 
-Hello! I'm also learning git as well. it is a little complex but not to hard to get the hang of.
+So it turns out git is not that complicated, but it needs a lot of practice!
