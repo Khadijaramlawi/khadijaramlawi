@@ -26,7 +26,7 @@ Welcome to my GitHub profile!
 ### 🌟 Fun Facts
 
 - I’ve won the Nasser Bin Hamad International Prize for Innovation and Creativity.
-- I’m a proud mom of three amazing kids: Maria, Hasan, and Sanad.
+- I have a bachelor degree in civil engineering and MBA
 
 ### 📊 GitHub Stats
 
