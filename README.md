@@ -10,12 +10,8 @@ Welcome to my GitHub profile!
   We are helping displaced Palestinians connect with mentors.
 - 🌱 Learning: Advanced data analytics.
 - 💡 Interested in: Tech for good, human rights, and entrepreneurship.
-
-### 🛠 Skills
-
-- Programming Languages: Python, SQL, R
-- Frameworks & Tools: Tableau, Power BI
-- Other: Strategic planning, stakeholder engagement, business development
+- Programming Languages: I'm currently learning Python, SQL, R
+- Frameworks & Tools: Power BI
 
 ### 🌟 Featured Projects
 
