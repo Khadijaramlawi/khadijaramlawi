@@ -1,6 +1,7 @@
 ## 👋 Hi, I'm Khadija Ramlawi
 
-I’m a business analyst and project manager with a passion for innovation and community-driven solutions. Welcome to my GitHub profile!
+I’m a business analyst and project manager with a passion for innovation and community-driven solutions.
+Welcome to my GitHub profile!
 
 ### 💼 What I Do
 
@@ -17,7 +18,6 @@ I’m a business analyst and project manager with a passion for innovation and c
 ### 🌟 Featured Projects
 
 - [Wasla Connect](https://github.com/waslaconnect): A platform supporting mentorship and live training.
-- [Data Analytics Portfolio](https://github.com/khadijaramlawi/data-analytics): A showcase of my analytics and visualization projects.
 
 ### 📫 Let's Connect
 
