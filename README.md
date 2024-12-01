@@ -6,12 +6,12 @@ Welcome to my GitHub profile!
 
 ### 💼 What I Do
 
-- 🚀 Currently: Co-founder at [Wasla Connect](https://waslaconnect.com)
+- 🚀 **Currently**: Co-founder at [Wasla Connect](https://waslaconnect.com)  
   We are helping displaced Palestinians connect with mentors.
-- 🌱 Learning: Advanced data analytics.
-- 💡 Interested in: Tech for good, human rights, and entrepreneurship.
-- Programming Languages: I'm currently learning Python, SQL, R
-- Frameworks & Tools: Power BI
+- 🌱 **Learning**: Advanced data analytics.
+- 💡 **Interested in**: Tech for good, human rights, and entrepreneurship.
+- 🐍 **Programming Languages**: I'm currently learning Python, SQL, R.
+- 🛠️ **Frameworks & Tools**: Power BI.
 
 ### 🌟 Featured Projects
 
