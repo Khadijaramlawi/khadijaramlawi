@@ -1,10 +1,34 @@
-About Me ... I feel I'm learning the Alpahbets once again now!.
+## 👋 Hi, I'm Khadija Ramlawi
 
-| foods | friends |
-| --- | --- |
-| Learning | is my passion |
+I’m a business analyst and project manager with a passion for innovation and community-driven solutions. Welcome to my GitHub profile!
 
-<!-- I am keeping the "!" for joy -->
-# Good Bye
+### 💼 What I Do
 
-So it turns out git is not that complicated, but it needs a lot of practice!
+- 🚀 Currently: Co-founder at [Wasla Connect](https://waslaconnect.com), helping displaced Palestinians connect with mentors.
+- 🌱 Learning: Advanced data analytics.
+- 💡 Interested in: Tech for good, human rights, and entrepreneurship.
+
+### 🛠 Skills
+
+- Programming Languages: Python, SQL, R
+- Frameworks & Tools: Tableau, Power BI
+- Other: Strategic planning, stakeholder engagement, business development
+
+### 🌟 Featured Projects
+
+- [Wasla Connect](https://github.com/waslaconnect): A platform supporting mentorship and live training.
+- [Data Analytics Portfolio](https://github.com/khadijaramlawi/data-analytics): A showcase of my analytics and visualization projects.
+
+### 📫 Let's Connect
+
+- LinkedIn: [linkedin.com/in/khadijaramlawi](https://linkedin.com/in/khadijaramlawi)
+- Email: <kalramlawi@gmail.com>
+
+### 🌟 Fun Facts
+
+- I’ve won the Nasser Bin Hamad International Prize for Innovation and Creativity.
+- I’m a proud mom of three amazing kids: Maria, Hasan, and Sanad.
+
+### 📊 GitHub Stats
+
+![Khadija's GitHub Stats](https://github-readme-stats.vercel.app/api?username=khadijaramlawi&show_icons=true&theme=radical)
