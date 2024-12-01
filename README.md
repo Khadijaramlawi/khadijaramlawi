@@ -1,6 +1,7 @@
 ## 👋 Hi, I'm Khadija Ramlawi
 
 I’m a business analyst and project manager with a passion for innovation and community-driven solutions.
+
 Welcome to my GitHub profile!
 
 ### 💼 What I Do
