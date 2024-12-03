@@ -10,13 +10,12 @@ Welcome to my GitHub profile!
   We are helping displaced Palestinians connect with mentors.
 - 🌱 **Learning**: Advanced data analytics.
 - 💡 **Interested in**: Tech for good, human rights, and entrepreneurship.
-- 🐍 **Programming Languages**: I'm currently learning Python, SQL, R.
-- 🛠️ **Frameworks & Tools**: Power BI.
+- 🐍 **Programming Languages**: I'm currently learning `Python`, `SQL`, and `R`.
+- 🛠️ **Frameworks & Tools**: `Power BI`.
 
 ### 🌟 Featured Projects
 
-- [Wasla Connect](https://github.com/waslaconnect)
- A platform supporting mentorship and live training.
+- [Wasla Connect](https://github.com/waslaconnect): A platform supporting mentorship and live training.
 
 ### 📫 Let's Connect
 
@@ -26,7 +25,7 @@ Welcome to my GitHub profile!
 ### 🌟 Fun Facts
 
 - I’ve won the Nasser Bin Hamad International Prize for Innovation and Creativity.
-- I have a bachelor degree in civil engineering and MBA
+- I have a bachelor's degree in civil engineering and an MBA.
 
 ### 📊 GitHub Stats
 
