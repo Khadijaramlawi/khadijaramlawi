@@ -15,7 +15,8 @@ Welcome to my GitHub profile!
 
 ### 🌟 Featured Projects
 
-- [Wasla Connect](https://github.com/waslaconnect): A platform supporting mentorship and live training.
+- [Wasla Connect](https://github.com/waslaconnect): A platform supporting mentorship
+and live training.
 
 ### 📫 Let's Connect
 
