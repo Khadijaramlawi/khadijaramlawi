@@ -23,7 +23,7 @@ and live training.
 - LinkedIn: [linkedin.com/in/khadijaramlawi](https://linkedin.com/in/khadijaramlawi)
 - Email: <kalramlawi@gmail.com>
 
-### 🌟 Fun Facts
+### 🌟 Facts About Me
 
 - I’ve won the Nasser Bin Hamad International Prize for Innovation and Creativity.
 - I have a bachelor's degree in civil engineering and an MBA.
