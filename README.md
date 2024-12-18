@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Khadija Ramlawi
 
-I’m a business analyst with a passion for innovation and community-driven solutions.
+I’m a business coach with a passion for innovation and community-driven solutions.
 
 Welcome to my GitHub profile!
 
@@ -10,7 +10,7 @@ Welcome to my GitHub profile!
   We are helping displaced Palestinians connect with mentors.
 - 🌱 **Learning**: Advanced data analytics.
 - 💡 **Interested in**: Tech for good, human rights, and entrepreneurship.
-- 🐍 **Programming Languages**: I'm currently learning `Python`, `SQL`, and `R`.
+- 🐍 **Programming Languages**: I'm currently learning `Python` and `SQL`
 - 🛠️ **Frameworks & Tools**: `Power BI`.
 
 ### 🌟 Featured Projects
@@ -25,6 +25,7 @@ and live training.
 
 ### 🌟 Facts About Me
 
+- I'm a mother of 3 amazing kids and trying to excel multi tasking!
 - I’ve won the Nasser Bin Hamad International Prize for Innovation and Creativity.
 - I have a bachelor's degree in civil engineering and an MBA.
 
